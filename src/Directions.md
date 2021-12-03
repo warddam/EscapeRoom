@@ -18,3 +18,4 @@ Whether your Escape Room gets completed is not a requirement. You don't have to 
 If you are able to get one node working in the two weeks and have demonstrated methods, if-statements and proper GUI, you might still earn full credit depending on the content. 
 
 In other words, just do the best you can, get something working and TURN IT IN! Some points are better than no points at all. Besides, if yor REALLY work hard, you may surprise yourself on what you can do.
+ 
